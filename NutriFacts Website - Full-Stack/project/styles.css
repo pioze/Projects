@@ -1,0 +1,184 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.d_title {
+  text-align: center;
+  color: #ff7300;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 28px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  font-weight: bold;
+  color: #333;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #ff7300;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c85a00;
+}
+
+.last {
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+a {
+  color: #ff7300;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+
+.social-media-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.social-media-links li {
+  margin: 0 10px;
+}
+
+.social-media-links img {
+  width: 25px;
+  height: 25px;
+}
+
+.mainContent {
+  display: table;
+  width: 100%;
+}
+
+.mainContent table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mainContent th,
+.mainContent td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.mainContent img {
+  max-width: 100%;
+  height: auto;
+}
+
+.login-menu {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.login-menu img {
+  width: 35px;
+  height: 35px;
+}
+
+.login-menu span {
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+body {
+  background-color: #fefae0;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  background-color: #bc6c25;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #15ff00;
+}
+
+main {
+  padding: 40px ;
+}

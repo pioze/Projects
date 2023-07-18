@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "name": "Bulking Program",
+      "description": "A personalized bulking program designed to help you gain muscle mass and strength. Includes customized workout routines and nutritional guidance.",
+      "price": "$99"
+    },
+    {
+      "name": "Cutting Program",
+      "description": "An effective cutting program to help you lose body fat while preserving muscle. Includes tailored workout plans and dietary recommendations.",
+      "price": "$79"
+    },
+    {
+      "name": "Strength Training Coaching",
+      "description": "One-on-one coaching sessions focused on improving strength and power. Suitable for individuals of all fitness levels.",
+      "price": "$49 per session"
+    },
+    {
+      "name": "Meal Planning Service",
+      "description": "Get a personalized meal plan tailored to your fitness goals and dietary preferences. Includes recipes and grocery lists.",
+      "price": "$49"
+    },
+    {
+      "name": "Online Fitness Classes",
+      "description": "Join live online fitness classes led by experienced instructors. Choose from a variety of workouts, including HIIT, yoga, and cardio.",
+      "price": "$19 per month"
+    }
+  ]
+}
